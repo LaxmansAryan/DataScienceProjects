@@ -11,3 +11,6 @@ Step 6: Run application by command;
 python app.py
 You will get url copy it and paste in browser.
 Step 7: You have sample_data folder where you can get images to text.
+  
+DEPLOYED ON HEROKU:
+  https://pancard-tampering-27926.herokuapp.com/
