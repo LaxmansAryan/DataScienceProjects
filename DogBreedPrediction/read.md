@@ -1,0 +1,1 @@
+This is simple dog breed prediction system. In this, we have used numpy, pandas, keras, opencv for the model creation. We have used streamlit for the webapp. We can predict the breed of dogs in our case Maltese Dog, Scottish Deerhound, Bernese Mountain Dog, etc using the images.
