@@ -30,3 +30,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Submit a pull request.
 
 Feel free to reach out to me if you have any questions or suggestions. Happy text extraction!
+
+
+# Screenshot
+<img width="947" alt="ss" src="https://github.com/LaxmansAryan/DataScienceProjects/assets/102072945/8c4794cf-ee93-48ac-be5c-c9a5373d8317">
+
+
